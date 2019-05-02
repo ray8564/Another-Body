@@ -1,0 +1,280 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AnotherBody.com" resolutions="1x,2x" timestamp="1556790656637">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4148385425" ref="index"/>
+    <file name="nomq_index.css" crc="208122568" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="dsc01128.jpg" crc="73137635" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc01128_2x.jpg" crc="4059037466" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="首頁標題.png" crc="3931317558" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="首頁標題_2x.png" crc="24444906" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="首頁副標.png" crc="198564784" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="首頁副標_2x.png" crc="469615310" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="black map_02.jpg" crc="4187828586" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="horizontal_structure.png" crc="4016897718" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="horizontal_structure_2x.png" crc="4019363128" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="joint.png" crc="3795784754" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="joint_2x.png" crc="445930844" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ghost-in-the-shell-contructing-the-mind.jpg" crc="3992043111" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vr screen.jpg" crc="3805003937" ref="index"/>
+    <file name="vr screen_2x.jpg" crc="318865236" ref="index"/>
+    <file name="vr camera.png" crc="306761260" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vr camera_2x.png" crc="459902732" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vr2_black.png" crc="215483723" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vr2_black_2x.png" crc="250460030" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="360vr_camera.png" crc="3961840320" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="360vr_camera_2x.png" crc="4050182975" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vr_glasses.png" crc="3876003273" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vr_glasses_2x.png" crc="3901739889" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact_info-u1316.png" crc="4013426032" ref="index"/>
+    <file name="contact_info-u1316_2x.png" crc="399054994" ref="index"/>
+    <file name="self_photo.png" crc="176151879" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="self_photo_2x.png" crc="4147602179" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sccd logo_old102x102.png" crc="455881460" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sccd logo_old102x102_2x.png" crc="4118647381" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ig_highper link.png" crc="4208473811" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ig_highper link_2x.png" crc="4256666749" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="structure_icon.png" crc="506624820" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="structure_icon_2x.png" crc="3919693517" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="body_structure.png" crc="4053282002" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="body_structure_2x.png" crc="353443891" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="light alloy.png" crc="195231173" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="light alloy_2x.png" crc="413390844" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="backframe.png" crc="4048081289" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="backframe_2x.png" crc="211916821" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="green square.png" crc="15711033" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="green square_2x.png" crc="98710590" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s_arrow.png" crc="329034865" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s_arrow_2x.png" crc="3867883940" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arm_structure.png" crc="226585495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arm_structure_2x.png" crc="301245684" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="down_arrow.png" crc="3920086579" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="down_arrow_2x.png" crc="4139751070" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="up_arrow.png" crc="168531392" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="up_arrow_2x.png" crc="3775686992" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="left_arrow.png" crc="433682774" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="left_arrow_2x.png" crc="82811323" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="visual_icon.png" crc="4024070920" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="visual_icon_2x.png" crc="134349314" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact_button-u1062.png" crc="3983246613" ref="index"/>
+    <file name="contact_button-u1062_2x.png" crc="300006481" ref="index"/>
+    <file name="u1026.png" crc="341080491" ref="index"/>
+    <file name="u1026_2x.png" crc="83697718" ref="index"/>
+    <file name="u1026-r.png" crc="341080491" ref="index"/>
+    <file name="u1026-r_2x.png" crc="83697718" ref="index"/>
+    <file name="u1026-m.png" crc="341080491" ref="index"/>
+    <file name="u1026-m_2x.png" crc="83697718" ref="index"/>
+    <file name="structure_1 button109x17.png" crc="4103765793" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="structure_1 button109x17_2x.png" crc="86439381" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="structure_2 button112x17.png" crc="4125158868" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="structure_2 button112x17_2x.png" crc="3928536118" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="visual_1 button78x18.png" crc="4161851207" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="visual_1 button78x18_2x.png" crc="3786262843" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="visual_2 button79x18.png" crc="378964457" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="visual_2 button79x18_2x.png" crc="4164085508" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact_button-u10622.png" crc="3814758073" ref="index"/>
+    <file name="contact_button-u1062_2x2.png" crc="50293718" ref="index"/>
+    <file name="u10262.png" crc="486265115" ref="index"/>
+    <file name="u1026_2x2.png" crc="391634857" ref="index"/>
+    <file name="u1026-r2.png" crc="486265115" ref="index"/>
+    <file name="u1026-r_2x2.png" crc="391634857" ref="index"/>
+    <file name="u1026-m2.png" crc="486265115" ref="index"/>
+    <file name="u1026-m_2x2.png" crc="391634857" ref="index"/>
+    <file name="structure_1 button.png" crc="244561543" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="structure_1 button_2x.png" crc="361403816" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="structure_2 button.png" crc="4011848073" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="structure_2 button_2x.png" crc="4154040256" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="visual_1 button.png" crc="23170574" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="visual_1 button_2x.png" crc="4137303690" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="visual_2 button.png" crc="97170907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="visual_2 button_2x.png" crc="190123051" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact_info-u13162.png" crc="4181442891" ref="index"/>
+    <file name="contact_info-u1316_2x2.png" crc="48585547" ref="index"/>
+    <file name="sccd logo_old.png" crc="165265543" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sccd logo_old_2x.png" crc="4126519262" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="306569028" seo="true" mt="1555581308600" redirect="true"/>
+</manifest>
