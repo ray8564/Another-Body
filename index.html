@@ -77,9 +77,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <div class="clip_frame grpelem shared_content" id="u1332" data-content-guid="u1332_content"><!-- image -->
       <img class="block temp_no_img_src" id="u1332_img" data-orig-src="images/self_photo.png?crc=176151879" data-hidpi-src="images/self_photo_2x.png?crc=4147602179" alt="" width="210" height="280" src="images/blank.gif?crc=4208392903"/>
      </div>
-     <div class="clip_frame grpelem" id="u1352"><!-- image -->
-      <img class="block temp_no_img_src" id="u1352_img" data-orig-src="images/sccd%20logo_old102x102.png?crc=455881460" data-hidpi-src="images/sccd%20logo_old102x102_2x.png?crc=4118647381" alt="" width="102" height="102" src="images/blank.gif?crc=4208392903"/>
-     </div>
+     <a class="nonblock nontext clip_frame grpelem" id="u1352" href="https://sccd.usc.edu.tw"><!-- image --><img class="block temp_no_img_src" id="u1352_img" data-orig-src="images/sccd%20logo_old102x102.png?crc=455881460" data-hidpi-src="images/sccd%20logo_old102x102_2x.png?crc=4118647381" alt="" width="102" height="102" src="images/blank.gif?crc=4208392903"/></a>
      <a class="nonblock nontext clip_frame grpelem shared_content" id="u1431" href="https://www.instagram.com/ray.8564" target="_blank" data-content-guid="u1431_content"><!-- image --><img class="block temp_no_img_src" id="u1431_img" data-orig-src="images/ig_highper%20link.png?crc=4208473811" data-hidpi-src="images/ig_highper%20link_2x.png?crc=4256666749" alt="" width="72" height="18" src="images/blank.gif?crc=4208392903"/></a>
     </div>
     <div class="clearfix grpelem" id="pu242"><!-- group -->
@@ -179,9 +177,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <span class="anchor_item grpelem placeholder" data-placeholder-for="contact_content"><!-- placeholder node --></span>
      <img class="grpelem temp_no_id temp_no_img_src" alt="" width="274" height="149" data-orig-src="images/contact_info-u13162.png?crc=4181442891" data-hidpi-src="images/contact_info-u1316_2x2.png?crc=48585547" data-orig-id="u1316" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
      <span class="clip_frame grpelem placeholder" data-placeholder-for="u1332_content"><!-- placeholder node --></span>
-     <div class="clip_frame grpelem temp_no_id" data-orig-id="u1352"><!-- image -->
-      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/sccd%20logo_old.png?crc=165265543" data-hidpi-src="images/sccd%20logo_old_2x.png?crc=4126519262" alt="" width="156" height="156" data-orig-id="u1352_img" src="images/blank.gif?crc=4208392903"/>
-     </div>
+     <a class="nonblock nontext clip_frame grpelem temp_no_id" href="https://sccd.usc.edu.tw" data-orig-id="u1352"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/sccd%20logo_old.png?crc=165265543" data-hidpi-src="images/sccd%20logo_old_2x.png?crc=4126519262" alt="" width="156" height="156" data-orig-id="u1352_img" src="images/blank.gif?crc=4208392903"/></a>
      <span class="nonblock nontext clip_frame grpelem placeholder" data-placeholder-for="u1431_content"><!-- placeholder node --></span>
     </div>
     <div class="clearfix grpelem temp_no_id" data-orig-id="pu242"><!-- group -->
@@ -223,6 +219,38 @@ Muse.Utils.detectScreenResolution();/* HiDPI screens */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
+$('#bp_1024').one('muse_this_bp_activate', function(){
+$('#u146').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,0]},{"speed":[0,0],"in":[0,Infinity]}], $(this)); /* scroll effect */
+$('#u160').registerPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,35]},{"speed":[0,1.2],"in":[35,Infinity]}], $(this)); /* scroll effect */
+$('#u170').registerPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,35]},{"speed":[0,1.3],"in":[35,Infinity]}], $(this)); /* scroll effect */
+$('#u332').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,689.9]},{"speed":[0,0],"in":[689.9,Infinity]}], $(this)); /* scroll effect */
+$('#u513').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,2365]},{"speed":[0,0],"in":[2365,Infinity]}], $(this)); /* scroll effect */
+$('#u489').registerOpacityScrollEffect([{"in":[-Infinity,2484.05],"fade":50,"opacity":0},{"opacity":100,"in":[2484.05,2484.05]},{"in":[2484.05,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
+$('#u474').registerOpacityScrollEffect([{"in":[-Infinity,2484.05],"fade":50,"opacity":0},{"opacity":100,"in":[2484.05,2484.05]},{"in":[2484.05,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
+$('#u527').registerOpacityScrollEffect([{"in":[-Infinity,3295],"fade":50,"opacity":0},{"opacity":100,"in":[3295,3295]},{"in":[3295,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
+$('#u538').registerOpacityScrollEffect([{"in":[-Infinity,3320],"fade":50,"opacity":0},{"opacity":100,"in":[3320,3320]},{"in":[3320,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
+$('#u242').registerPositionScrollEffect([{"speed":[0,-1.1],"in":[-Infinity,745]},{"speed":[0,1],"in":[745,Infinity]}], $(this)); /* scroll effect */
+$('#u242').registerOpacityScrollEffect([{"in":[-Infinity,745],"fade":50,"opacity":0},{"opacity":100,"in":[745,745]},{"in":[745,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
+$('#u252').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,852.87]},{"speed":[0,1],"in":[852.87,Infinity]}], $(this)); /* scroll effect */
+$('#u262').registerPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,789.9]},{"speed":[0,1.1],"in":[789.9,Infinity]}], $(this)); /* scroll effect */
+$('#u262').registerOpacityScrollEffect([{"in":[-Infinity,789.9],"fade":50,"opacity":0},{"opacity":100,"in":[789.9,789.9]},{"in":[789.9,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
+$('#u272').registerPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,815.05]},{"speed":[0,1.1],"in":[815.05,Infinity]}], $(this)); /* scroll effect */
+$('#u272').registerOpacityScrollEffect([{"in":[-Infinity,815.05],"fade":50,"opacity":0},{"opacity":100,"in":[815.05,815.05]},{"in":[815.05,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
+$('#u308').registerPositionScrollEffect([{"speed":[0,-0.2],"in":[-Infinity,896.66]},{"speed":[0,1],"in":[896.66,Infinity]}], $(this)); /* scroll effect */
+$('#u308').registerOpacityScrollEffect([{"in":[-Infinity,896.66],"fade":50,"opacity":0},{"opacity":100,"in":[896.66,896.66]},{"in":[896.66,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
+$('#u351').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,1143.08]},{"speed":[0,1.2],"in":[1143.08,Infinity]}], $(this)); /* scroll effect */
+$('#u351').registerOpacityScrollEffect([{"in":[-Infinity,1143.08],"fade":119,"opacity":0},{"opacity":100,"in":[1143.08,1143.08]},{"in":[1143.08,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
+$('#u361').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,1675]},{"speed":[0,1],"in":[1675,Infinity]}], $(this)); /* scroll effect */
+$('#u361').registerOpacityScrollEffect([{"in":[-Infinity,1675],"fade":50,"opacity":0},{"opacity":100,"in":[1675,1675]},{"in":[1675,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
+$('#u399').registerPositionScrollEffect([{"speed":[0,-1.1],"in":[-Infinity,1633.85]},{"speed":[0,1],"in":[1633.85,Infinity]}], $(this)); /* scroll effect */
+$('#u399').registerOpacityScrollEffect([{"in":[-Infinity,1633.85],"fade":50,"opacity":0},{"opacity":100,"in":[1633.85,1633.85]},{"in":[1633.85,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
+$('#u409').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,1633.85]},{"speed":[0,1],"in":[1633.85,Infinity]}], $(this)); /* scroll effect */
+$('#u409').registerOpacityScrollEffect([{"in":[-Infinity,1633.85],"fade":50,"opacity":0},{"opacity":100,"in":[1633.85,1633.85]},{"in":[1633.85,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
+$('#u419').registerPositionScrollEffect([{"speed":[10,1],"in":[-Infinity,1640]},{"speed":[-0.2,1],"in":[1640,Infinity]}], $(this)); /* scroll effect */
+$('#u419').registerOpacityScrollEffect([{"in":[-Infinity,1640],"fade":50,"opacity":0},{"opacity":100,"in":[1640,1640]},{"in":[1640,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
+$('#u500').registerPositionScrollEffect([{"speed":[0,-1.1],"in":[-Infinity,2425]},{"speed":[0,1],"in":[2425,Infinity]}], $(this)); /* scroll effect */
+$('#u500').registerOpacityScrollEffect([{"in":[-Infinity,2425],"fade":50,"opacity":0},{"opacity":100,"in":[2425,2425]},{"in":[2425,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
 $('#u146').registerPositionScrollEffect([{"speed":[1,0],"in":[-Infinity,0]},{"speed":[0,1],"in":[0,Infinity]}], $(this)); /* scroll effect */
 $('#u146').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,0]},{"speed":[0,0],"in":[0,Infinity]}], $(this)); /* scroll effect */
@@ -256,38 +284,6 @@ $('#u419').registerOpacityScrollEffect([{"in":[-Infinity,1640],"fade":50,"opacit
 $('#u500').registerPositionScrollEffect([{"speed":[0,-1.1],"in":[-Infinity,2425]},{"speed":[0,1],"in":[2425,Infinity]}], $(this)); /* scroll effect */
 $('#u500').registerOpacityScrollEffect([{"in":[-Infinity,2425],"fade":50,"opacity":0},{"opacity":100,"in":[2425,2425]},{"in":[2425,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
 $('#u1250').registerPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,0.05]},{"speed":[0,0],"in":[0.05,Infinity]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
-$('#bp_1024').one('muse_this_bp_activate', function(){
-$('#u146').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,0]},{"speed":[0,0],"in":[0,Infinity]}], $(this)); /* scroll effect */
-$('#u160').registerPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,35]},{"speed":[0,1.2],"in":[35,Infinity]}], $(this)); /* scroll effect */
-$('#u170').registerPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,35]},{"speed":[0,1.3],"in":[35,Infinity]}], $(this)); /* scroll effect */
-$('#u332').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,689.9]},{"speed":[0,0],"in":[689.9,Infinity]}], $(this)); /* scroll effect */
-$('#u513').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,2365]},{"speed":[0,0],"in":[2365,Infinity]}], $(this)); /* scroll effect */
-$('#u489').registerOpacityScrollEffect([{"in":[-Infinity,2484.05],"fade":50,"opacity":0},{"opacity":100,"in":[2484.05,2484.05]},{"in":[2484.05,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
-$('#u474').registerOpacityScrollEffect([{"in":[-Infinity,2484.05],"fade":50,"opacity":0},{"opacity":100,"in":[2484.05,2484.05]},{"in":[2484.05,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
-$('#u527').registerOpacityScrollEffect([{"in":[-Infinity,3295],"fade":50,"opacity":0},{"opacity":100,"in":[3295,3295]},{"in":[3295,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
-$('#u538').registerOpacityScrollEffect([{"in":[-Infinity,3320],"fade":50,"opacity":0},{"opacity":100,"in":[3320,3320]},{"in":[3320,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
-$('#u242').registerPositionScrollEffect([{"speed":[0,-1.1],"in":[-Infinity,745]},{"speed":[0,1],"in":[745,Infinity]}], $(this)); /* scroll effect */
-$('#u242').registerOpacityScrollEffect([{"in":[-Infinity,745],"fade":50,"opacity":0},{"opacity":100,"in":[745,745]},{"in":[745,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
-$('#u252').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,852.87]},{"speed":[0,1],"in":[852.87,Infinity]}], $(this)); /* scroll effect */
-$('#u262').registerPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,789.9]},{"speed":[0,1.1],"in":[789.9,Infinity]}], $(this)); /* scroll effect */
-$('#u262').registerOpacityScrollEffect([{"in":[-Infinity,789.9],"fade":50,"opacity":0},{"opacity":100,"in":[789.9,789.9]},{"in":[789.9,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
-$('#u272').registerPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,815.05]},{"speed":[0,1.1],"in":[815.05,Infinity]}], $(this)); /* scroll effect */
-$('#u272').registerOpacityScrollEffect([{"in":[-Infinity,815.05],"fade":50,"opacity":0},{"opacity":100,"in":[815.05,815.05]},{"in":[815.05,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
-$('#u308').registerPositionScrollEffect([{"speed":[0,-0.2],"in":[-Infinity,896.66]},{"speed":[0,1],"in":[896.66,Infinity]}], $(this)); /* scroll effect */
-$('#u308').registerOpacityScrollEffect([{"in":[-Infinity,896.66],"fade":50,"opacity":0},{"opacity":100,"in":[896.66,896.66]},{"in":[896.66,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
-$('#u351').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,1143.08]},{"speed":[0,1.2],"in":[1143.08,Infinity]}], $(this)); /* scroll effect */
-$('#u351').registerOpacityScrollEffect([{"in":[-Infinity,1143.08],"fade":119,"opacity":0},{"opacity":100,"in":[1143.08,1143.08]},{"in":[1143.08,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
-$('#u361').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,1675]},{"speed":[0,1],"in":[1675,Infinity]}], $(this)); /* scroll effect */
-$('#u361').registerOpacityScrollEffect([{"in":[-Infinity,1675],"fade":50,"opacity":0},{"opacity":100,"in":[1675,1675]},{"in":[1675,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
-$('#u399').registerPositionScrollEffect([{"speed":[0,-1.1],"in":[-Infinity,1633.85]},{"speed":[0,1],"in":[1633.85,Infinity]}], $(this)); /* scroll effect */
-$('#u399').registerOpacityScrollEffect([{"in":[-Infinity,1633.85],"fade":50,"opacity":0},{"opacity":100,"in":[1633.85,1633.85]},{"in":[1633.85,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
-$('#u409').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,1633.85]},{"speed":[0,1],"in":[1633.85,Infinity]}], $(this)); /* scroll effect */
-$('#u409').registerOpacityScrollEffect([{"in":[-Infinity,1633.85],"fade":50,"opacity":0},{"opacity":100,"in":[1633.85,1633.85]},{"in":[1633.85,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
-$('#u419').registerPositionScrollEffect([{"speed":[10,1],"in":[-Infinity,1640]},{"speed":[-0.2,1],"in":[1640,Infinity]}], $(this)); /* scroll effect */
-$('#u419').registerOpacityScrollEffect([{"in":[-Infinity,1640],"fade":50,"opacity":0},{"opacity":100,"in":[1640,1640]},{"in":[1640,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
-$('#u500').registerPositionScrollEffect([{"speed":[0,-1.1],"in":[-Infinity,2425]},{"speed":[0,1],"in":[2425,Infinity]}], $(this)); /* scroll effect */
-$('#u500').registerOpacityScrollEffect([{"in":[-Infinity,2425],"fade":50,"opacity":0},{"opacity":100,"in":[2425,2425]},{"in":[2425,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
