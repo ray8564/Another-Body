@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AnotherBody.com" resolutions="1x,2x" timestamp="1556790656637">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AnotherBody.com" resolutions="1x,2x" timestamp="1556790998419">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4148385425" ref="index"/>
@@ -203,7 +203,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="contact_button-u1062.png" crc="3983246613" ref="index"/>
-    <file name="contact_button-u1062_2x.png" crc="300006481" ref="index"/>
+    <file name="contact_button-u1062_2x.png" crc="4115432890" ref="index"/>
     <file name="u1026.png" crc="341080491" ref="index"/>
     <file name="u1026_2x.png" crc="83697718" ref="index"/>
     <file name="u1026-r.png" crc="341080491" ref="index"/>
@@ -276,5 +276,5 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="306569028" seo="true" mt="1555581308600" redirect="true"/>
+  <file name="index.html" crc="4150896794" seo="true" mt="1556790932938" redirect="true"/>
 </manifest>
